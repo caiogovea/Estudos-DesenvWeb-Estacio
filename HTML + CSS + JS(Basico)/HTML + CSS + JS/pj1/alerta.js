@@ -1,0 +1,1 @@
+alert("Ola, este eh meu site!");  // mensagem de alerta que aparece quando o site é carregado

@@ -1,0 +1,12 @@
+body { /* seletor - corpo */
+    background-color: rgb(14, 13, 13) /* propriedade - cor de fundo */
+}
+
+h1 { /* seletor - título */
+    color: white /* propriedade - cor */
+}
+
+p { /* seletor - parágrafo */
+    font-size: 15px; /* propriedade - tamanho da letra */
+    color: grey /* propriedade - cor */
+}

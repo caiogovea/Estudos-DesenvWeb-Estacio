@@ -1,0 +1,20 @@
+.cor1:hover { /*a cor do hover será vermelha*/
+    color: red;
+}
+
+.cor2:hover { /*a cor do hover será azul*/
+    color: blue;
+}
+
+
+.cor3:hover { /*a cor do hover será verde*/
+    color: green;
+}
+
+.cor4:hover { /*a cor do hover será laranja*/
+    color: orange;
+}
+
+.cor5:hover { /*a cor do hover será roxa*/
+    color: purple;
+}

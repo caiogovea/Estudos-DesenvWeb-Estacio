@@ -1,0 +1,30 @@
+body { /* estilo do corpo da página */
+    background-color: #222; /* fundo escuro */
+    color: white; /* cor do texto */
+    font-family: Arial, sans-serif; /* fonte padrão */
+
+    display: flex; /* usa flexbox para centralizar o conteúdo */
+    justify-content: center; /* centraliza horizontalmente */
+    align-items: center; /* centraliza verticalmente */
+
+    height: 100vh; /* altura da tela */
+}
+
+h1 { /* estilo do título */
+    color: #ff4444; /* cor do título */
+    font-size: 40px; /* tamanho da fonte do título */  
+}
+
+button { /* estilo do botão */
+    background-color: #ff4444; /* cor de fundo do botão */
+    color: white; /* cor do texto do botão */
+    border: none; /* remove a borda padrão do botão */
+    padding: 12px 25px; /* espaçamento interno do botão */
+    font-size: 18px; /* tamanho da fonte do botão */
+    border-radius: 8px; /* borda arredondada do botão */
+    cursor: pointer; /* muda o cursor para indicar que é clicável */
+}
+
+button:hover { /* estilo do botão quando o mouse passa por cima */
+    background-color: red; /* muda a cor de fundo do botão quando o mouse passa por cima */
+}
